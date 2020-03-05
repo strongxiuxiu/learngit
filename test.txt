@@ -1,9 +1,3 @@
 Gitdd is a distributed version control system aaaa.
-
-
-
-
-
 Git is d free software dddd.
 git ssssssdddddd
-add line data
