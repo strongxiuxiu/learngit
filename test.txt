@@ -1,3 +1,3 @@
 Git is a distributed version control system aaaa.
-Git is free software dddd.
+Git is d free software dddd.
 git ssssssdddddd
